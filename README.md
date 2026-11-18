@@ -1,100 +1,18 @@
 <div align="center">
-
-# Sak-Thecoder
-
-`software development` · `linux` · `machine learning` · `building things`
-
+  <img src="./assets/fastfetch.svg" width="100%" alt="Sak-Thecoder Fastfetch Profile" />
 </div>
-
-```text
-┌──────────────────────────────────────────────────────────────────┐
-│                                                                  │
-│  sak@arch:~/github                                               │
-│  ❯ fastfetch --profile                                           │
-│                                                                  │
-│  Sak-Thecoder@github                                             │
-│  ─────────────────────────────────────────────────────────────   │
-│  Name       : Thea Darasak                                       │
-│  Role       : Software Development Student                       │
-│  University : American University of Phnom Penh                  │
-│  Location   : Phnom Penh, Cambodia                               │
-│                                                                  │
-│  OS         : Arch Linux / macOS                                 │
-│  Shell      : zsh                                                │
-│  Editor     : Neovim / VS Code                                   │
-│  Languages  : Python, Java, C++                                  │
-│  Focus      : Software Engineering, Machine Learning             │
-│  Status     : Building...                                        │
-│                                                                  │
-└──────────────────────────────────────────────────────────────────┘
-```
 
 ### `❯ ls ~/projects`
 
-```text
-projects/
-├── FixTrail/
-│   └── Cross-platform system diagnostics
-│
-├── Road-Surface-Detection/
-│   └── Computer vision & deep learning
-│
-├── SraCash/
-│   └── Android financial tracking
-│
-├── SentinelLog/
-│   └── ML-based log risk classification
-│
-└── experiments/
-    └── Ideas, prototypes & things I'm learning
-```
+- [FixTrail](https://github.com/Sak-Thecoder/fixtrail-releases) — Cross-platform system diagnostics and troubleshooting.
+- **Road Surface Quality Detection** — Computer vision and deep learning.
+- **SraCash** — Android financial tracking application.
+- [SentinelLog](https://github.com/Sak-Thecoder/SentinelLog) — Machine learning-based log risk classification.
 
 ### `❯ cat interests.txt`
 
-```text
-Reverse Engineering     Machine Learning
-Robotics                Games & Simulations
-Systems Programming     Computer Vision
-Developer Tools         Linux Customization
-```
-
-### `❯ cat tech-stack.conf`
-
-```ini
-[Languages]
-primary = Python, Java, C++
-exploring = Rust, TypeScript
-
-[Development]
-frontend = React
-tools = Git, Docker, Linux
-editors = Neovim, VS Code
-
-[Machine Learning]
-libraries = NumPy, Pandas, Scikit-learn
-interests = Computer Vision, Deep Learning
-```
-
-### `❯ git status`
-
-```diff
-+ Building projects
-+ Learning new technologies
-+ Exploring systems and machine learning
-+ Improving one commit at a time
-```
+Reverse Engineering · Machine Learning · Robotics · Games & Simulations · Systems Programming · Computer Vision
 
 ### `❯ cat contact.txt`
 
 [GitHub](https://github.com/Sak-Thecoder) · [LinkedIn](https://www.linkedin.com/in/thea-darasak-a43216382/) · [Email](mailto:stardarasak@gmail.com)
-
----
-
-<div align="center">
-
-```text
-❯ echo "Build. Break. Understand. Repeat."
-Build. Break. Understand. Repeat.
-```
-
-</div>
