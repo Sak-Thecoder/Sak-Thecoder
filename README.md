@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/fastfetch.svg" width="100%" alt="Sak-Thecoder Fastfetch Profile" />
+  <img src="./assets/fastfetch-transparent.svg" width="100%" alt="Sak-Thecoder Fastfetch Profile" />
 </div>
 
 ### `❯ ls ~/projects`
